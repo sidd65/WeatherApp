@@ -1,0 +1,19 @@
+h1 {
+    color: blue;
+}
+
+p {
+    color: blueviolet;
+}
+
+input {
+    border: 2px solid cadetblue;
+}
+
+button {
+    cursor: pointer;
+    border: 1px cadetblue;
+    background-attachment: fixed;
+    background: darkcyan;
+    padding: 8px;
+}
